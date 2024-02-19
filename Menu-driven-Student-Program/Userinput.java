@@ -1,9 +1,5 @@
 //Userinput.java
-/*
-Name-Vivek Hotchandani
-Batch- AIML-B3
-PRN-22070126133
-*/
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
